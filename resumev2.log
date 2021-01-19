@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2021.1.19)  19 JAN 2021 10:56
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2021.1.19)  19 JAN 2021 11:08
 entering extended mode
 **/home/zeusdric/Desktop/cvs/CMU-AFRICA/resumeV2/resumev2.tex
 (/home/zeusdric/Desktop/cvs/CMU-AFRICA/resumeV2/resumev2.tex
@@ -1228,41 +1228,26 @@ Overfull \hbox (1.59999pt too wide) in paragraph at lines 14--14
  []
 
 
-Underfull \hbox (badness 1466) in paragraph at lines 19--26
+Underfull \hbox (badness 1466) in paragraph at lines 19--22
 [][]  [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 19--26
-[] 
- []
-
-
-Underfull \hbox (badness 2837) in paragraph at lines 19--26
-[] 
- []
-
-
-Underfull \hbox (badness 1308) in paragraph at lines 19--26
-[]  [] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 19--26
- 
+Underfull \hbox (badness 2837) in paragraph at lines 23--27
+[][] 
  []
 
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 52.
+(Font)              scaled to size 9.0pt on input line 53.
 LaTeX Font Info:    Trying to load font information for TS1+lato-TLF on input l
-ine 53.
+ine 54.
 (/home/zeusdric/.miktex/texmfs/install/tex/latex/lato/TS1lato-TLF.fd
 File: TS1lato-TLF.fd 2019/06/24 Font definitions for TS1/lato-TLF.
 )
 LaTeX Font Info:    Font shape `TS1/lato-TLF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 53.
+(Font)              scaled to size 9.0pt on input line 54.
 LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
-(Font)              scaled to size 9.0pt on input line 53.
+(Font)              scaled to size 9.0pt on input line 54.
 )
 Overfull \hbox (12.64665pt too wide) in paragraph at lines 66--67
 []\T1/lato-TLF/m/n/9 Deployed the machine leaning model to an edge device (Rasp
@@ -1326,7 +1311,7 @@ Package logreq Info: Writing requests to 'resumev2.run.xml'.
 Here is how much of TeX's memory you used:
  37670 strings out of 481551
  726402 string characters out of 2916349
- 1424507 words of memory out of 3000000
+ 1425507 words of memory out of 3000000
  53966 multiletter control sequences out of 15000+200000
  786949 words of font info for 72 fonts, out of 3000000 for 9000
  0 hyphenation exceptions out of 8191
@@ -1345,7 +1330,7 @@ l/fonts/type1/typoland/lato/Lato-BoldItalic.pfb></home/zeusdric/.miktex/texmfs/
 install/fonts/type1/typoland/lato/Lato-Italic.pfb></home/zeusdric/.miktex/texmf
 s/install/fonts/type1/typoland/lato/Lato-Regular.pfb>
 Output written on /home/zeusdric/Desktop/cvs/CMU-AFRICA/resumeV2/resumev2.pdf (
-1 page, 251392 bytes).
+1 page, 251499 bytes).
 PDF statistics:
  78 PDF objects out of 1000 (max. 8388607)
  2 named destinations out of 1000 (max. 500000)
