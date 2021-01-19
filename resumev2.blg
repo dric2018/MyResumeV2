@@ -1,0 +1,5 @@
+[0] Config.pm:311> INFO - This is Biber 2.16
+[0] Config.pm:314> INFO - Logfile is 'resumev2.blg'
+[74] biber:340> INFO - === Tue Jan 19, 2021, 10:53:49
+[89] Biber.pm:415> INFO - Reading 'resumev2.bcf'
+[161] Utils.pm:395> WARN - No data sources defined!
