@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2021.1.19)  19 JAN 2021 11:08
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2021.1.19)  19 JAN 2021 11:24
 entering extended mode
 **/home/zeusdric/Desktop/cvs/CMU-AFRICA/resumeV2/resumev2.tex
 (/home/zeusdric/Desktop/cvs/CMU-AFRICA/resumeV2/resumev2.tex
@@ -1311,7 +1311,7 @@ Package logreq Info: Writing requests to 'resumev2.run.xml'.
 Here is how much of TeX's memory you used:
  37670 strings out of 481551
  726402 string characters out of 2916349
- 1425507 words of memory out of 3000000
+ 1424507 words of memory out of 3000000
  53966 multiletter control sequences out of 15000+200000
  786949 words of font info for 72 fonts, out of 3000000 for 9000
  0 hyphenation exceptions out of 8191
@@ -1330,7 +1330,7 @@ l/fonts/type1/typoland/lato/Lato-BoldItalic.pfb></home/zeusdric/.miktex/texmfs/
 install/fonts/type1/typoland/lato/Lato-Italic.pfb></home/zeusdric/.miktex/texmf
 s/install/fonts/type1/typoland/lato/Lato-Regular.pfb>
 Output written on /home/zeusdric/Desktop/cvs/CMU-AFRICA/resumeV2/resumev2.pdf (
-1 page, 251499 bytes).
+1 page, 251990 bytes).
 PDF statistics:
  78 PDF objects out of 1000 (max. 8388607)
  2 named destinations out of 1000 (max. 500000)
